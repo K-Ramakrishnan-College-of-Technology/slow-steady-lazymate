@@ -1,0 +1,6 @@
+{
+  "name": "LazyMate AI – Slow and Steady Productivity Assistant",
+  "description": "Save time and mental effort with Gemma open-weight AI models. Instant two-line summaries, lazy task prioritization, quick replies, note organization, and relax mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
